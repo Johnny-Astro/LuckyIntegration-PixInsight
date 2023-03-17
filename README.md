@@ -1,1 +1,2 @@
-# LuckyIntegration-PixInsight
+# LuckyIntegration
+LuckyIntegration PixInsight module
